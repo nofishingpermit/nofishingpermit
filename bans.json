@@ -10,6 +10,16 @@
         "server": "transdedi"
       }
     ],
+    "76561199059238934": [
+      {
+        "banned_at": "2026-10-11",
+        "category": "crash",
+        "comment": "campaign of crashing",
+        "expires": null,
+        "reason": "crash campaign on the backup lobby, 2026-10-11/12",
+        "server": "transdedi"
+      }
+    ],
     "76561199806782397": [
       {
         "banned_at": "2026-10-11",
