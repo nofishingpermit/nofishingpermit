@@ -24,6 +24,18 @@
         "server": "transdedi"
       }
     ],
+    "76561198201867761": [
+      {
+        "banned_at": "2026-10-09",
+        "categories": [
+          "harassment"
+        ],
+        "comment": null,
+        "expires": null,
+        "reason": "harassment",
+        "server": "transdedi"
+      }
+    ],
     "76561198276683546": [
       {
         "banned_at": "2026-10-11",
