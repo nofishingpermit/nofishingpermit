@@ -3,7 +3,9 @@
     "76561197960544166": [
       {
         "banned_at": "2026-10-11",
-        "category": "crashing",
+        "categories": [
+          "crashing"
+        ],
         "comment": "campaign of crashing",
         "expires": null,
         "reason": "crash campaign on the backup lobby, 2026-10-11/12",
