@@ -60,6 +60,19 @@
         "server": "transdedi"
       }
     ],
+    "76561199048513775": [
+      {
+        "banned_at": "2026-10-03",
+        "categories": [
+          "crashing",
+          "harassment"
+        ],
+        "comment": null,
+        "expires": null,
+        "reason": "crashing, harassment",
+        "server": "transdedi"
+      }
+    ],
     "76561199059238934": [
       {
         "banned_at": "2026-10-11",
