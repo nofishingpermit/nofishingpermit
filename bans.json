@@ -63,7 +63,7 @@
     "76561199806782397": [
       {
         "banned_at": "2026-10-11",
-        "category": "crash",
+        "category": "crashing",
         "comment": "campaign of crashing",
         "expires": null,
         "reason": "crash campaign on the backup lobby, 2026-10-11/12",
@@ -84,9 +84,9 @@
   "servers": {
     "transdedi": {
       "added": "2026-10-13",
-      "name": "Trans Dedi"
+      "name": "Trans Dedi Network"
     }
   },
-  "updated": "2026-10-13T08:11:58Z",
+  "updated": "2026-10-13T08:20:09Z",
   "version": 1
 }
