@@ -72,18 +72,6 @@
         "server": "transdedi"
       }
     ],
-    "76561198647878620": [
-      {
-        "banned_at": "2026-10-13",
-        "categories": [
-          "other"
-        ],
-        "comment": null,
-        "expires": null,
-        "reason": "testing, ignore this",
-        "server": "transdedi"
-      }
-    ],
     "76561199048513775": [
       {
         "banned_at": "2026-10-03",
@@ -164,6 +152,6 @@
       "name": "Trans Dedi Network"
     }
   },
-  "updated": "2026-10-13T10:23:02Z",
+  "updated": "2026-10-13T10:23:52Z",
   "version": 1
 }
