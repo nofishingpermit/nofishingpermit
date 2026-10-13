@@ -72,18 +72,6 @@
         "server": "transdedi"
       }
     ],
-    "76561198647878620": [
-      {
-        "banned_at": "2026-10-13",
-        "categories": [
-          "other"
-        ],
-        "comment": "string",
-        "expires": "2026-10-13",
-        "reason": "string",
-        "server": "oldpeoplelobby"
-      }
-    ],
     "76561199048513775": [
       {
         "banned_at": "2026-10-03",
@@ -168,6 +156,6 @@
       "name": "Trans Dedi Network"
     }
   },
-  "updated": "2026-10-13T19:48:00Z",
+  "updated": "2026-10-13T20:02:40Z",
   "version": 1
 }
