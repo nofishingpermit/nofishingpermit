@@ -48,6 +48,18 @@
         "server": "transdedi"
       }
     ],
+    "76561198321580440": [
+      {
+        "banned_at": "2026-10-03",
+        "categories": [
+          "harassment"
+        ],
+        "comment": null,
+        "expires": null,
+        "reason": "harassment",
+        "server": "transdedi"
+      }
+    ],
     "76561199059238934": [
       {
         "banned_at": "2026-10-11",
@@ -103,6 +115,6 @@
       "name": "Trans Dedi Network"
     }
   },
-  "updated": "2026-10-13T08:36:29Z",
+  "updated": "2026-10-13T09:16:28Z",
   "version": 1
 }
