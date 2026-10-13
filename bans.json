@@ -121,6 +121,18 @@
         "server": "transdedi"
       }
     ],
+    "76561199577685400": [
+      {
+        "banned_at": "2026-10-13",
+        "categories": [
+          "other"
+        ],
+        "comment": "",
+        "expires": "2076-10-13",
+        "reason": "giant flashing swastika graffiti",
+        "server": "oldpeoplelobby"
+      }
+    ],
     "76561199806782397": [
       {
         "banned_at": "2026-10-11",
@@ -156,6 +168,6 @@
       "name": "Trans Dedi Network"
     }
   },
-  "updated": "2026-10-13T20:02:40Z",
+  "updated": "2026-10-13T20:35:39Z",
   "version": 1
 }
