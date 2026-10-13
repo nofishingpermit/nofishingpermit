@@ -1,6 +1,22 @@
 {
-  "bans": {},
-  "servers": {},
-  "updated": "2026-10-13T08:11:38Z",
+  "bans": {
+    "76561199806782397": [
+      {
+        "banned_at": "2026-10-11",
+        "category": "crash",
+        "comment": "campaign of crashing",
+        "expires": null,
+        "reason": "crash campaign on the backup lobby, 2026-10-11/12",
+        "server": "transdedi"
+      }
+    ]
+  },
+  "servers": {
+    "transdedi": {
+      "added": "2026-10-13",
+      "name": "Trans Dedi"
+    }
+  },
+  "updated": "2026-10-13T08:11:58Z",
   "version": 1
 }
