@@ -36,6 +36,18 @@
         "server": "transdedi"
       }
     ],
+    "76561198202109758": [
+      {
+        "banned_at": "2026-10-15",
+        "categories": [
+          "racism"
+        ],
+        "comment": null,
+        "expires": null,
+        "reason": "many nword slurs in chalk",
+        "server": "oldpeoplelobby"
+      }
+    ],
     "76561198276683546": [
       {
         "banned_at": "2026-10-11",
@@ -168,6 +180,6 @@
       "name": "Trans Dedi Network"
     }
   },
-  "updated": "2026-10-13T20:35:39Z",
+  "updated": "2026-10-15T18:47:38Z",
   "version": 1
 }
