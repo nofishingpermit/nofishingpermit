@@ -133,6 +133,18 @@
         "server": "transdedi"
       }
     ],
+    "76561199519221358": [
+      {
+        "banned_at": "2026-10-16",
+        "categories": [
+          "racism"
+        ],
+        "comment": null,
+        "expires": null,
+        "reason": "prolific user of nwords",
+        "server": "oldpeoplelobby"
+      }
+    ],
     "76561199577685400": [
       {
         "banned_at": "2026-10-13",
@@ -180,6 +192,6 @@
       "name": "Trans Dedi Network"
     }
   },
-  "updated": "2026-10-15T18:47:38Z",
+  "updated": "2026-10-16T03:23:54Z",
   "version": 1
 }
