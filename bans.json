@@ -109,6 +109,18 @@
         "server": "transdedi"
       }
     ],
+    "76561199073067813": [
+      {
+        "banned_at": "2026-10-19",
+        "categories": [
+          "other"
+        ],
+        "comment": null,
+        "expires": null,
+        "reason": "banned from the Discord bot",
+        "server": "transdedi"
+      }
+    ],
     "76561199146778531": [
       {
         "banned_at": "2026-10-06",
@@ -192,6 +204,6 @@
       "name": "Trans Dedi Network"
     }
   },
-  "updated": "2026-10-16T03:23:54Z",
+  "updated": "2026-10-19T23:08:42Z",
   "version": 1
 }
