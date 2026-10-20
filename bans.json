@@ -24,6 +24,18 @@
         "server": "transdedi"
       }
     ],
+    "76561198056629364": [
+      {
+        "banned_at": "2026-10-20",
+        "categories": [
+          "racism"
+        ],
+        "comment": null,
+        "expires": null,
+        "reason": "slurs + told players to hang, hostile in backup lobby 2026-10-20",
+        "server": "transdedi"
+      }
+    ],
     "76561198201867761": [
       {
         "banned_at": "2026-10-09",
@@ -204,6 +216,6 @@
       "name": "Trans Dedi Network"
     }
   },
-  "updated": "2026-10-19T23:08:42Z",
+  "updated": "2026-10-20T23:38:31Z",
   "version": 1
 }
