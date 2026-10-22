@@ -169,6 +169,18 @@
         "server": "oldpeoplelobby"
       }
     ],
+    "76561199547905193": [
+      {
+        "banned_at": "2026-10-22",
+        "categories": [
+          "other"
+        ],
+        "comment": null,
+        "expires": null,
+        "reason": "script kiddy, not crashing ppl, just making them fall through the map or making water disappear for them",
+        "server": "oldpeoplelobby"
+      }
+    ],
     "76561199577685400": [
       {
         "banned_at": "2026-10-13",
@@ -216,6 +228,6 @@
       "name": "Trans Dedi Network"
     }
   },
-  "updated": "2026-10-20T23:38:31Z",
+  "updated": "2026-10-22T00:06:43Z",
   "version": 1
 }
