@@ -110,13 +110,13 @@
     ],
     "76561199033353328": [
       {
-        "banned_at": "2026-10-22",
+        "banned_at": "2026-10-21",
         "categories": [
           "crashing"
         ],
         "comment": null,
         "expires": null,
-        "reason": "continuation of the crashing campaign; flooded the backup lobby 2026-10-22 01:05",
+        "reason": "continuation of crashing campaign",
         "server": "transdedi"
       }
     ],
@@ -252,6 +252,6 @@
       "name": "Trans Dedi Network"
     }
   },
-  "updated": "2026-10-22T01:59:29Z",
+  "updated": "2026-10-22T01:59:35Z",
   "version": 1
 }
