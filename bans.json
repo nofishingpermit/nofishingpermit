@@ -96,6 +96,18 @@
         "server": "transdedi"
       }
     ],
+    "76561198945474265": [
+      {
+        "banned_at": "2026-10-22",
+        "categories": [
+          "other"
+        ],
+        "comment": null,
+        "expires": null,
+        "reason": "using stamps mod with pictures of genital torture",
+        "server": "oldpeoplelobby"
+      }
+    ],
     "76561199048513775": [
       {
         "banned_at": "2026-10-03",
@@ -228,6 +240,6 @@
       "name": "Trans Dedi Network"
     }
   },
-  "updated": "2026-10-22T00:06:43Z",
+  "updated": "2026-10-22T00:23:41Z",
   "version": 1
 }
